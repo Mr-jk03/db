@@ -11,7 +11,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/11/20/z4898202751436_d8f4eb8b9fef2a48c0283d03737f8255.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2024/08/01/z5688911805445_042b1697cbc00928b23ef7e55ac5765f.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "FlashSale"
         },
@@ -26,7 +26,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/11/20/z4898202751436_d8f4eb8b9fef2a48c0283d03737f8255.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2024/08/01/z5688911805445_042b1697cbc00928b23ef7e55ac5765f.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "FlashSale"
         },
@@ -41,7 +41,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/11/20/z4898202751436_d8f4eb8b9fef2a48c0283d03737f8255.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2024/08/01/z5688911805445_042b1697cbc00928b23ef7e55ac5765f.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "FlashSale"
         },
@@ -56,7 +56,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/11/20/z4898202751436_d8f4eb8b9fef2a48c0283d03737f8255.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2024/08/01/z5688911805445_042b1697cbc00928b23ef7e55ac5765f.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "FlashSale"
         }
@@ -73,7 +73,7 @@
                 "https://cdn.shopify.com/s/files/1/0585/8181/1355/files/giay-dep-sandals-nu-di-hoc-1.jpg?v=1700635362",
                 "https://cdn.shopify.com/s/files/1/0585/8181/1355/files/giay-dep-sandals-nu-di-hoc-8.jpg?v=1700635384"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -88,7 +88,7 @@
                 "https://cdn.shopify.com/s/files/1/0585/8181/1355/files/giay-dep-sandals-nu-di-hoc-1.jpg?v=1700635362",
                 "https://cdn.shopify.com/s/files/1/0585/8181/1355/files/giay-dep-sandals-nu-di-hoc-8.jpg?v=1700635384"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -103,7 +103,7 @@
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_KmxtYAoCWU.jpeg",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -118,7 +118,7 @@
                 "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgyt3gpjmvjm9f",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -133,7 +133,7 @@
                 "https://bizweb.dktcdn.net/100/423/680/products/200-15-1703824459904.jpg?v=1703824470023",
                 "https://product.hstatic.net/200000043698/product/76f438144a3b4cbaa09fb72fa6fba959_7b53c883ebe54c998c92fd07bd45df22.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -148,7 +148,7 @@
                 "https://timan.vn/upload/products/112023/giay-the-thao-nam-ct27-thoi-thuong.jpg",
                 "https://streetstyleshop.vn/wp-content/uploads/2022/07/giay-bata-nam-don-gian-2-600x600.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -163,7 +163,7 @@
                 "https://timan.vn/upload/products/112023/giay-the-thao-nam-ct27-thoi-thuong.jpg",
                 "https://streetstyleshop.vn/wp-content/uploads/2022/07/giay-bata-nam-don-gian-2-600x600.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -178,7 +178,7 @@
                 "https://timan.vn/upload/products/112023/giay-the-thao-nam-ct27-thoi-thuong.jpg",
                 "https://streetstyleshop.vn/wp-content/uploads/2022/07/giay-bata-nam-don-gian-2-600x600.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },{
@@ -192,7 +192,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -207,7 +207,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -222,7 +222,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -237,7 +237,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },{
@@ -251,7 +251,7 @@
                 "https://www.gento.vn/wp-content/uploads/2021/08/balo-da-bo-b3002.jpg",
                 "https://www.gento.vn/wp-content/uploads/2021/10/balo-da-bo-sap-2.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -266,7 +266,7 @@
                 "https://topbag.vn/media/images/large/san-pham/balo/sakos/lightly/balo-chong-gu-sieu-nhe-sakos-lightly-tho-hong-4.jpg",
                 "https://topbag.vn/media/images/large/san-pham/balo/sakos/simple/balo-tre-em-chong-gu-sakos-simple-pink-bunny-moon-4.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -281,7 +281,7 @@
                 "https://zizoou.com/cdn/shop/products/Balo-nam-nu-30b-5-ZiZoou-Store.jpg?v=1685723352&width=1946",
                 "https://zizoou.com/cdn/shop/files/Balo-nam-nu-30b-20_Extras-ZiZoou-Store_300x300_crop_center.jpg?v=1685723352"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         },
@@ -296,7 +296,7 @@
                 "https://www.vascara.com/uploads/cms_productmedia/2023/August/31/balo-ngan-doi-phoi-vien-den---bac-0193---mau-den__71559__1693429327-medium.jpg",
                 "https://www.vascara.com/uploads/cms_productmedia/2023/August/31/balo-ngan-doi-phoi-vien-den---bac-0193---mau-den__71561__1693429418-medium.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "BestSaler"
         }
@@ -313,7 +313,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Womenshoes"
         },
@@ -328,7 +328,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Womenshoes"
         },
@@ -343,7 +343,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Womenshoes"
         },
@@ -358,7 +358,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Womenshoes"
         },
@@ -373,7 +373,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Womenshoes"
         },
@@ -388,7 +388,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Womenshoes"
         },
@@ -403,7 +403,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Womenshoes"
         },
@@ -418,7 +418,7 @@
                 "https://product.hstatic.net/200000726949/product/prisilla_white_100-002-044_alt4_sq_nt_1200x1200_36f0d81a03b04748a39bc1cfa5ca9974_master.jpg",
                 "https://product.hstatic.net/200000726949/product/vidish_white_100-001-043_alt4_sq_nt_2400x2400_62f69dcb5a474ed59f0de6d00b3066c9_master.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Womenshoes"
         }
@@ -435,7 +435,7 @@
                 "https://www.gento.vn/wp-content/uploads/2021/08/balo-da-bo-b3002.jpg",
                 "https://www.gento.vn/wp-content/uploads/2021/10/balo-da-bo-sap-2.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Bags"
         },
@@ -450,7 +450,7 @@
                 "https://topbag.vn/media/images/large/san-pham/balo/sakos/lightly/balo-chong-gu-sieu-nhe-sakos-lightly-tho-hong-4.jpg",
                 "https://topbag.vn/media/images/large/san-pham/balo/sakos/simple/balo-tre-em-chong-gu-sakos-simple-pink-bunny-moon-4.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Bags"
         },
@@ -465,7 +465,7 @@
                 "https://zizoou.com/cdn/shop/products/Balo-nam-nu-30b-5-ZiZoou-Store.jpg?v=1685723352&width=1946",
                 "https://zizoou.com/cdn/shop/files/Balo-nam-nu-30b-20_Extras-ZiZoou-Store_300x300_crop_center.jpg?v=1685723352"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Bags"
         },
@@ -480,7 +480,7 @@
                 "https://www.vascara.com/uploads/cms_productmedia/2023/August/31/balo-ngan-doi-phoi-vien-den---bac-0193---mau-den__71559__1693429327-medium.jpg",
                 "https://www.vascara.com/uploads/cms_productmedia/2023/August/31/balo-ngan-doi-phoi-vien-den---bac-0193---mau-den__71561__1693429418-medium.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Bags"
         },
@@ -495,7 +495,7 @@
                 "https://apavi.vn/vnt_upload/product/07_2023/z4291364958192_699c92d888e4b143bbf54eb22c045546.jpg",
                 "https://apavi.vn/vnt_upload/product/07_2023/z4291368089542_200027443d6072958e8ac210d3c41f9a.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Bags"
         },
@@ -510,7 +510,7 @@
                 "https://gubag.vn/wp-content/uploads/2022/05/balo-thoi-trang-nam-nu-gb-bl47-5.jpg",
                 "https://b3128772.smushcdn.com/3128772/wp-content/uploads/2022/05/balo-thoi-trang-nam-nu-gb-bl47-1-800x800.jpg?lossy=1&strip=1&webp=1"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Bags"
         },
@@ -525,7 +525,7 @@
                 "https://gubag.vn/wp-content/uploads/2022/05/balo-thoi-trang-nam-nu-gb-bl47-5.jpg",
                 "https://b3128772.smushcdn.com/3128772/wp-content/uploads/2022/05/balo-thoi-trang-nam-nu-gb-bl47-1-800x800.jpg?lossy=1&strip=1&webp=1"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Bags"
         },
@@ -540,7 +540,7 @@
                 "https://gubag.vn/wp-content/uploads/2022/05/balo-thoi-trang-nam-nu-gb-bl47-5.jpg",
                 "https://b3128772.smushcdn.com/3128772/wp-content/uploads/2022/05/balo-thoi-trang-nam-nu-gb-bl47-1-800x800.jpg?lossy=1&strip=1&webp=1"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "Bags"
         }    
@@ -557,7 +557,7 @@
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_KmxtYAoCWU.jpeg",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "SandalGirl"
         },
@@ -572,7 +572,7 @@
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_KmxtYAoCWU.jpeg",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "SandalGirl"
         }, 
@@ -587,7 +587,7 @@
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_KmxtYAoCWU.jpeg",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "SandalGirl"
         },
@@ -602,7 +602,7 @@
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_KmxtYAoCWU.jpeg",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "SandalGirl"
         }, 
@@ -617,7 +617,7 @@
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_KmxtYAoCWU.jpeg",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "SandalGirl"
         },
@@ -632,7 +632,7 @@
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_KmxtYAoCWU.jpeg",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "SandalGirl"
         }, 
@@ -647,7 +647,7 @@
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_KmxtYAoCWU.jpeg",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "SandalGirl"
         },
@@ -662,7 +662,7 @@
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_KmxtYAoCWU.jpeg",
                 "https://pos.nvncdn.com/205d8e-20707/ps/20240305_Aav6JNiRwK.jpeg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "SandalGirl"
         }
@@ -679,7 +679,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=510&FileInput=/Resources/Product/2023/11/09/mwc4ed5937d-9b2b-49ae-af62-d0bfd9f92178.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=0&FileInput=/Resources/Product/2024/08/17/z5739854420181_d2a5ca453f548606dc15daa9b7caa446.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category": "SandalBoys"
         },
@@ -694,7 +694,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=510&FileInput=/Resources/Product/2023/11/09/mwc4ed5937d-9b2b-49ae-af62-d0bfd9f92178.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=0&FileInput=/Resources/Product/2024/08/17/z5739854420181_d2a5ca453f548606dc15daa9b7caa446.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category":"SandalBoys"
         },
@@ -709,7 +709,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=510&FileInput=/Resources/Product/2023/11/09/mwc4ed5937d-9b2b-49ae-af62-d0bfd9f92178.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=0&FileInput=/Resources/Product/2024/08/17/z5739854420181_d2a5ca453f548606dc15daa9b7caa446.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category":"SandalBoys"
         },
@@ -724,7 +724,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=510&FileInput=/Resources/Product/2023/11/09/mwc4ed5937d-9b2b-49ae-af62-d0bfd9f92178.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=0&FileInput=/Resources/Product/2024/08/17/z5739854420181_d2a5ca453f548606dc15daa9b7caa446.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category":"SandalBoys"
         },
@@ -739,7 +739,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=510&FileInput=/Resources/Product/2023/11/09/mwc4ed5937d-9b2b-49ae-af62-d0bfd9f92178.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=0&FileInput=/Resources/Product/2024/08/17/z5739854420181_d2a5ca453f548606dc15daa9b7caa446.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category":"SandalBoys"
         },
@@ -754,7 +754,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=510&FileInput=/Resources/Product/2023/11/09/mwc4ed5937d-9b2b-49ae-af62-d0bfd9f92178.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=0&FileInput=/Resources/Product/2024/08/17/z5739854420181_d2a5ca453f548606dc15daa9b7caa446.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category":"SandalBoys"
         },
@@ -769,7 +769,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=510&FileInput=/Resources/Product/2023/11/09/mwc4ed5937d-9b2b-49ae-af62-d0bfd9f92178.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=0&FileInput=/Resources/Product/2024/08/17/z5739854420181_d2a5ca453f548606dc15daa9b7caa446.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category":"SandalBoys"
         },
@@ -784,7 +784,7 @@
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=510&FileInput=/Resources/Product/2023/11/09/mwc4ed5937d-9b2b-49ae-af62-d0bfd9f92178.jpg",
                 "https://img.mwc.com.vn/giay-thoi-trang?w=480&h=0&FileInput=/Resources/Product/2024/08/17/z5739854420181_d2a5ca453f548606dc15daa9b7caa446.jpg"
             ],
-            "size":"39, 40, 41, 42, 43",
+            "sizes":[39, 40, 41, 42, 43],
             "brand": "mwc",
             "category":"SandalBoys"
         }
